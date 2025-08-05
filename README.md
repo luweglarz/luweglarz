@@ -1,4 +1,4 @@
-### Hi, I’m Lucas, a Software Engineer passionate about low-level programming and distributed systems.
+### Hi, I’m Lucas, a Software Development Engineer passionate about low-level programming, distributed systems and many more.
 
 [![Lucas’s GitHub stats](https://github-readme-stats.vercel.app/api?username=luweglarz&show_icons=true&theme=tokyonight)](https://github.com/luweglarz)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luweglarz&layout=compact&theme=tokyonight)](https://github.com/luweglarz)
